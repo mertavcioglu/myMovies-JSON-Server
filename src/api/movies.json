@@ -1,0 +1,53 @@
+{
+  "moviesList": [
+    {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "rating": "8.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "id": "dAg78vl"
+    },
+    {
+      "title": "Palm Beach",
+      "rating": "5.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/g210Wx9Imdg4jpgPJgr2Rov30pe.jpg",
+      "description": "A group of lifelong friends reunite to celebrate a special birthday, with Sydney's iconic Palm Beach providing a stunning backdrop for the unfolding drama. The good times roll, with loads of laughter, lavish meals, flowing wine and fantastic music, but slowly tensions mount and deep secrets arise.\n\n",
+      "id": "lhi0wFG"
+    },
+    {
+      "title": "The Crown",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hqmDLY8BSuHmldBuuUwNNt8L45G.jpg",
+      "description": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny.\n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+      "id": "Ir17FpZ"
+    },
+    {
+      "title": "Gunpowder Milkshake",
+      "rating": "6",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5AaKulwpUtkscAokKWtLenGTfVS.jpg",
+      "description": "To protect an 8-year-old girl, a dangerous assassin reunites with her mother and her lethal associates to take down a ruthless crime syndicate and its army of henchmen.\n\n",
+      "id": "NjTjgU_"
+    },
+    {
+      "title": "Hotel Noir (2012)",
+      "rating": "4",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mM7lFpYA2IEpXluO3XB7UU5aZ7i.jpg",
+      "description": "Los Angeles, 1958: a detective holes up in a downtown hotel awaiting killers to come get him. During the course of one night he will meet various occupants of the hotel and the truth of how he came to be in his present situation will be revealed.\n\n",
+      "id": "wVvTPHS"
+    },
+    {
+      "title": "The Haunting of Bly Manor (2020)",
+      "rating": "2",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vIXQ8UymmQ7zJEPrKJP3s3fSbhR.jpg",
+      "description": "After an au pair’s tragic death, Henry Wingrave hires a young American nanny to care for his orphaned niece and nephew who reside at Bly Manor with the estate’s chef Owen, groundskeeper Jamie and housekeeper, Mrs. Grose. But all is not as it seems at the manor, and centuries of dark secrets of love and loss are waiting to be unearthed in this chilling tale.\n\n",
+      "id": "LidgtpL"
+    },
+    {
+      "title": "The Last of Us",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.\n\n",
+      "id": "3CkiBQV"
+    }
+  ]
+}
